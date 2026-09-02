@@ -24,11 +24,9 @@ I enjoy building scalable web applications, AI-powered products, and intelligent
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 🏫 **KIPM College of Engineering & Technology**
-- 📊 Current CGPA: **7.5 / 10.0**
 - 🏆 **GATE 2026 Qualified — CS & IT**
 - 💼 Currently working as a **Web Development Intern**
 - 🔭 Building **AI-powered web applications**
-- 🤖 Interested in **AI, Multi-Agent Systems & Developer Tools**
 - 🤝 Open to collaborating on **AI & Full-Stack projects**
 - 🌱 Currently learning **Backend Development, AI & System Design**
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js & MongoDB**
@@ -91,9 +89,6 @@ An intelligent software engineering platform designed to analyze GitHub reposito
 - 🤖 AI-powered repository analysis
 - 🧩 Multi-agent software engineering architecture
 - 🔍 Repository health and code insights
-- ⚡ Asynchronous analysis using Redis & BullMQ
-- 🔐 Secure authentication and repository management
-- 📊 Intelligent developer-focused insights
 
 ---
 
@@ -107,10 +102,6 @@ An AI-powered resume platform designed to help users create professional resumes
 - 🤖 AI Resume Generation
 - 📊 ATS Score & Optimization
 - 🎯 Job Description Match Analysis
-- ✍️ AI Cover Letter Generation
-- 🎤 AI Mock Interview
-- 📄 Resume PDF Export
-- 💼 LinkedIn Profile Optimization
 
 ---
 
@@ -124,9 +115,7 @@ A full-stack online coding platform inspired by modern competitive programming p
 - 🔐 JWT Authentication
 - 👥 Role-Based Access Control
 - 🔌 REST APIs
-- 🐳 Docker-based code execution
 - ⚡ Redis & BullMQ asynchronous processing
-- 🧪 Automated test case evaluation
 
 ---
 
@@ -141,8 +130,6 @@ An AI-powered SaaS platform designed for task management, meetings, follow-ups, 
 - 📅 Meeting management
 - 🔔 Follow-ups & reminders
 - 🔐 JWT Authentication
-- 📊 Responsive dashboard
-- 🔌 REST API architecture
 
 ---
 
@@ -154,8 +141,6 @@ A responsive Amazon-inspired e-commerce web application built to practice modern
 
 **Key Features:**
 - 🛍️ Product browsing
-- 🛒 Shopping cart
-- 💾 LocalStorage
 - 📱 Responsive UI
 - ⚡ Interactive JavaScript functionality
 
@@ -186,10 +171,6 @@ A responsive Amazon-inspired e-commerce web application built to practice modern
 
 - Developed responsive web interfaces using HTML, CSS, JavaScript and React.js
 - Built reusable UI components
-- Improved application responsiveness across devices
-- Collaborated using Git and GitHub
-- Worked with REST APIs and frontend-backend communication
-- Used Node.js and Express.js for backend integration
 
 ---
 
