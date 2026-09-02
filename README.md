@@ -24,7 +24,7 @@ I enjoy building scalable web applications, AI-powered products, and intelligent
 
 - 🎓 B.Tech in Computer Science & Engineering
 - 🏫 **KIPM College of Engineering & Technology**
-- 📊 Current CGPA: **8.0 / 10.0**
+- 📊 Current CGPA: **7.5 / 10.0**
 - 🏆 **GATE 2026 Qualified — CS & IT**
 - 💼 Currently working as a **Web Development Intern**
 - 🔭 Building **AI-powered web applications**
