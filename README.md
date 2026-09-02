@@ -1,21 +1,204 @@
-# 💫 About Me:
-👋 Hi, I'm Vishal Kumar Paswan<br><br>🎓 CSE Student | GATE Aspirant<br>🔭 I'm currently building AI-powered web applications<br>🤝 I'm looking to collaborate on AI & Full-Stack projects<br>💡 I'm interested in AI, Full-Stack Development & Software Engineering<br>🌱 I'm currently learning Backend Development, AI & System Design<br>💬 Ask me about JavaScript, React, Node.js & MongoDB<br>⚡ Fun fact: I enjoy turning ideas into real-world applications
+<div align="center">
 
+# 👋 Hi, I'm Vishal Kumar Paswan
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vishal_kumarpaswan498/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal498/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishal Kumar Paswan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vkumarpaswan498@gmail.com) 
+### 🎓 B.Tech CSE Student | Full-Stack Developer | AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vishalkumarpaswan498&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vishalkumarpaswan498&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishalkumarpaswan498&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**KIPM College of Engineering & Technology, Gorakhpur**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishalkumarpaswan498&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🏆 **GATE 2026 Qualified — Computer Science & Information Technology**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalkumarpaswan498)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal498/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkumarpaswan498@gmail.com)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vishalkumarpaswan498&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I'm a **final-year Computer Science Engineering student** with hands-on experience in **Full-Stack Development** and a strong interest in **Artificial Intelligence and Software Engineering**.
+
+I enjoy building scalable web applications, AI-powered products, and intelligent developer tools using modern technologies.
+
+- 🎓 B.Tech in Computer Science & Engineering
+- 🏫 **KIPM College of Engineering & Technology**
+- 📊 Current CGPA: **8.0 / 10.0**
+- 🏆 **GATE 2026 Qualified — CS & IT**
+- 💼 Currently working as a **Web Development Intern**
+- 🔭 Building **AI-powered web applications**
+- 🤖 Interested in **AI, Multi-Agent Systems & Developer Tools**
+- 🤝 Open to collaborating on **AI & Full-Stack projects**
+- 🌱 Currently learning **Backend Development, AI & System Design**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js & MongoDB**
+- ⚡ I enjoy turning ideas into real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Database
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI & Developer Technologies
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E53935?style=for-the-badge&logo=redis&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### ☁️ Cloud & Tools
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Powered Multi-Agent Repository Intelligence Platform
+
+An intelligent software engineering platform designed to analyze GitHub repositories and provide AI-powered insights using **repository intelligence, automated analysis, and multi-agent architecture**.
+
+**Tech:** React • TypeScript • Node.js • Express.js • MongoDB • Redis • BullMQ • Docker • AI
+
+**Key Features:**
+- 🤖 AI-powered repository analysis
+- 🧩 Multi-agent software engineering architecture
+- 🔍 Repository health and code insights
+- ⚡ Asynchronous analysis using Redis & BullMQ
+- 🔐 Secure authentication and repository management
+- 📊 Intelligent developer-focused insights
+
+---
+
+### 📄 AI Resume Builder & ATS Optimizer
+
+An AI-powered resume platform designed to help users create professional resumes and optimize them for Applicant Tracking Systems.
+
+**Tech:** React • TypeScript • Node.js • Express.js • MongoDB • AI
+
+**Key Features:**
+- 🤖 AI Resume Generation
+- 📊 ATS Score & Optimization
+- 🎯 Job Description Match Analysis
+- ✍️ AI Cover Letter Generation
+- 🎤 AI Mock Interview
+- 📄 Resume PDF Export
+- 💼 LinkedIn Profile Optimization
+
+---
+
+### 💻 ABCode — Online Coding Platform
+
+A full-stack online coding platform inspired by modern competitive programming platforms.
+
+**Tech:** React.js • TypeScript • Node.js • Express.js • MongoDB • Docker • Redis • BullMQ • JWT
+
+**Key Features:**
+- 🔐 JWT Authentication
+- 👥 Role-Based Access Control
+- 🔌 REST APIs
+- 🐳 Docker-based code execution
+- ⚡ Redis & BullMQ asynchronous processing
+- 🧪 Automated test case evaluation
+
+---
+
+### 🤖 AI Personal Business Secretary
+
+An AI-powered SaaS platform designed for task management, meetings, follow-ups, and reminders.
+
+**Tech:** React.js • TypeScript • Tailwind CSS • Node.js • Express.js • MongoDB
+
+**Key Features:**
+- 📋 Task management
+- 📅 Meeting management
+- 🔔 Follow-ups & reminders
+- 🔐 JWT Authentication
+- 📊 Responsive dashboard
+- 🔌 REST API architecture
+
+---
+
+### 🛒 Amazon Clone
+
+A responsive Amazon-inspired e-commerce web application built to practice modern frontend development.
+
+**Tech:** HTML • CSS • JavaScript
+
+**Key Features:**
+- 🛍️ Product browsing
+- 🛒 Shopping cart
+- 💾 LocalStorage
+- 📱 Responsive UI
+- ⚡ Interactive JavaScript functionality
+
+---
+
+## 🏆 Achievements
+
+### 🥇 GATE 2026 Qualified
+
+**Computer Science & Information Technology (CS & IT)**
+
+---
+
+## 📜 Certifications
+
+- ☁️ **Google Cloud Certification**
+- 🤖 **AICTE HEIs Engagement AI Pre-Summit — Certificate of Participation**
+- ☕ **Advanced Java Summer Training Program 2025**
+- 🔐 **Deloitte Cyber Job Simulation — Forage**
+
+---
+
+## 💼 Experience
+
+### Web Development Intern — InternNova
+
+**August 2026 – Present | Remote**
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript and React.js
+- Built reusable UI components
+- Improved application responsiveness across devices
+- Collaborated using Git and GitHub
+- Worked with REST APIs and frontend-backend communication
+- Used Node.js and Express.js for backend integration
+
+---
+
+## 🎯 Current Focus
+
+```text
+Full-Stack Development    ████████████████████░  90%
+Backend Engineering        █████████████████░░░  80%
+AI Integration             ████████████████░░░░  75%
+DSA & Problem Solving      ███████████████░░░░░  70%
+System Design              ████████████░░░░░░░░  60%
+Cloud Technologies         ███████████░░░░░░░░░  60%
